@@ -8,6 +8,8 @@ if(bar){
     })
 }
 
+// Hamburger Menu Logic
+
 if(close){
     close.addEventListener('click',()=>{
         nav.classList.remove('active');
